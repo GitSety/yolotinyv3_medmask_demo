@@ -1,0 +1,4 @@
+/content/yolotinyv3_medmask_demo/obj/0001.jpg
+/content/yolotinyv3_medmask_demo/obj/0002.jpg
+/content/yolotinyv3_medmask_demo/obj/0003.jpg
+/content/yolotinyv3_medmask_demo/obj/0004.jpg
